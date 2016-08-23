@@ -1,0 +1,14 @@
+{
+  "name": "os-parse-dashboard",
+  "version": "1.0.0",
+  "description": "OS parse dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kairic",
+  "license": "ISC",
+  "dependencies": {
+    "parse-dashboard": "^1.0.14"
+  }
+}

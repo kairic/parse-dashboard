@@ -1,0 +1,29 @@
+{
+  "apps": [
+    {
+      "serverURL": "http://openschool.herokuapp.com/parse",
+      "appId": "openschool",
+      "masterKey": "OpenSchool2016",
+      "appName": "openschool"
+    }
+  ],
+  "users": [
+    {
+      "user":"kairic",
+      "pass":"osdev2016"
+    },
+    {
+      "user":"kensir",
+      "pass":"osdev2016"
+    },
+    {
+      "user":"bensir",
+      "pass":"osdev2016"
+    },
+    {
+      "user":"albertsir",
+      "pass":"osdev2016"
+    }
+  ]
+}
+
