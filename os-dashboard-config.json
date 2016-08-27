@@ -1,10 +1,10 @@
 {
   "apps": [
     {
-      "serverURL": "http://os-web-server.herokuapp.com/parse",
+      "serverURL": "http://openschool.herokuapp.com/parse",
       "appId": "OS_WEB_SERVER",
       "masterKey": "OPEN_SCHOOL_2016",
-      "appName": "os-web-server"
+      "appName": "openschool"
     }
   ],
   "users": [
